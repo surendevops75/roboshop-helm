@@ -1,0 +1,3 @@
+deployment:
+  imageRepo: surendevops75/catalogue
+  imageVersion: v1
